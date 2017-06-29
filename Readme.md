@@ -9,7 +9,7 @@ Here are the proposed exercices:
 
 * First we want to implement the Calculator that can calculate simple operations: sums, products, substractions and divisions
 	* A first test is given for sum, don't forget to write some for additional cases and other operations
-	* Try to avoid exceptions with explicit messages if impossible to calculate
+	* Try to avoid unhandled exceptions, use explicit messages if impossible to calculate
 	* **Q1**: what can you do to avoid lots of ifs or a switch?
 * If it is not the case, remove any conditions about the operation to apply
 	* **Q2**: what is the core concept of object-oriented programmation you are using?
